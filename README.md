@@ -1,4 +1,7 @@
 URLAssignment Design Document
+
+Youngmin Lee, 0928381
+CSE403
 =============
 
 I used URL java library to check if the url is valid, to make canonicalized url, and to
